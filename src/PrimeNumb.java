@@ -38,7 +38,8 @@ public class PrimeNumb{
             System.out.println("not a prime .");
         }
 
-    }}
+    }
+}
 
 
 
