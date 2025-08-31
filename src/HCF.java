@@ -38,7 +38,7 @@ public class HCF{
        if(a==0){
             System.out.println("HCF IS " + b);}
             else{
-              System.out.println("Hcf is "+a);
+              System.out.println("HCF is "+a);
             }
 
     }
